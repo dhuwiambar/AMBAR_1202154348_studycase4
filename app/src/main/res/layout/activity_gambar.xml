@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.lenovo.ambar_1202154348_studycase4.gambar">
+
+    <EditText
+        android:id="@+id/sourcegambar"
+        android:textSize="25sp"
+        android:padding="7dp"
+        android:background="#cceeeeee"
+        android:singleLine="true"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <Button
+        android:onClick="carigambar"
+        android:layout_margin="20dp"
+        android:textColor="@android:color/white"
+        android:background="@android:color/black"
+        android:layout_gravity="center_horizontal"
+        android:textAllCaps="false"
+        android:text="Cari Gambar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <ImageView
+        android:layout_gravity="center_horizontal"
+        android:id="@+id/gambarnya"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        />
+
+</LinearLayout>

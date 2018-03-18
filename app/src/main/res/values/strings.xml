@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">AMBAR_1202154348_studycase4</string>
+    <string-array name="Mahasiswa">
+        <item>Dhuwi Ambar Wati</item>
+        <item>Rona Alviana</item>
+        <item>Saskia Latifah</item>
+        <item>Mikaela Clarissa</item>
+        <item>Verly Harlina</item>
+        <item>Devita Ayyu W</item>
+        <item>Widya Harahap</item>
+        <item>Aulia Rahman</item>
+        <item>Kharisma Maulana</item>
+        <item>Adnan Adzani</item>
+        <item>Lazuardy</item>
+        <item>Ahmad Fauzan</item>
+        <item>Ananda Muhammad</item>
+        <item>Lutfi Wiggi</item>
+        <item>Gatot Primaulida</item>
+        <item>Ilham Yunirakhman</item>
+        <item>Ikhsan Laode</item>
+        <item>Nukman Tamimi</item>
+        <item>Dennis Simon</item>
+        <item>Dimas Anjay</item>
+    </string-array>
+</resources>
